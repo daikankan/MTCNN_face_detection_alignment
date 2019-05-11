@@ -6,9 +6,9 @@ Tensorflow version of "Joint Face Detection and Alignment using Multi-task Casca
 3. Cuda (if use nvidia gpu)
 ## Results
 ![](https://github.com/daikankan/MTCNN_face_detection_alignment/blob/master/results/lfw.jpg) 
-test on fddb
+
 ![](https://github.com/daikankan/MTCNN_face_detection_alignment/blob/master/results/widerface.jpg) 
-                                  test on widerface
+
 ### FDDB
 ![](https://github.com/daikankan/MTCNN_face_detection_alignment/blob/master/results/discROC.png) 
 
